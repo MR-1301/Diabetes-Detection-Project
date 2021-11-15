@@ -12,6 +12,7 @@ git add . <br />
 git commit -m "added --- Model"<br />
 git push
 
-#Commands to run the website locally-
+#Commands to run the website locally
+
 pip install -r requirements.txt
 python app.py
