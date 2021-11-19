@@ -25,7 +25,7 @@ def predictPage():
             list_predicted.append(model.predict(predict_list.reshape(1, -1))[0])
             model = pickle.load(open('models/Gradient_Boosting.pkl', 'rb'))
             list_predicted.append(model.predict(predict_list.reshape(1, -1))[0])
-            model = pickle.load(open('models/Random_Forest.pkl', 'rb'))
+            model = pickle.load(open('models/SVM.pkl', 'rb'))
             list_predicted.append(model.predict(predict_list.reshape(1, -1))[0])
             model = pickle.load(open('models/Random_Forest.pkl', 'rb'))
             list_predicted.append(model.predict(predict_list.reshape(1, -1))[0])
