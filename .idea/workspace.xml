@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a66a178e-3b40-47c2-819b-ba41f1eacfe4" name="Changes" comment="updated GradientBoosting">
-      <change afterPath="$PROJECT_DIR$/models/Gradient_Boosting.pkl" afterDir="false" />
+    <list default="true" id="a66a178e-3b40-47c2-819b-ba41f1eacfe4" name="Changes" comment="updated for app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python NoteBook/GradientBoosting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python NoteBook/GradientBoosting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python NoteBook/Gradient_Boosting.pkl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python NoteBook/RandomForestClassifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python NoteBook/RandomForestClassifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/predict.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/predict.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python NoteBook/Random_Forest.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Gradient_Boosting.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/Gradient_Boosting.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Random_Forest.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/Random_Forest.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +22,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20wRWlcB0dcxKVLmb2NwYeNbIN3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -97,7 +102,9 @@
       <workItem from="1637306893562" duration="3441000" />
       <workItem from="1637311571963" duration="902000" />
       <workItem from="1637325113815" duration="8107000" />
-      <workItem from="1637333328572" duration="2424000" />
+      <workItem from="1637333328572" duration="2795000" />
+      <workItem from="1637336424144" duration="207000" />
+      <workItem from="1637337623327" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="for deployment">
       <created>1637308855044</created>
@@ -169,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637335190631</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated for app">
+      <created>1637336233318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637336233318</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated for app">
+      <created>1637336244694</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637336244694</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,12 +209,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="for deployment" />
     <MESSAGE value="updated GradientBoosting" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated GradientBoosting" />
+    <MESSAGE value="updated for app" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated for app" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Diabetes_Detection_Project$app.coverage" NAME="app Coverage Results" MODIFIED="1637308749714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Diabetes_Detection_Project$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1637336028319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Diabetes_Detection_Project$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1637338280486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
