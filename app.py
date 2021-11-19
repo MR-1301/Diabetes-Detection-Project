@@ -1,8 +1,7 @@
 from flask import Flask, render_template, request, flash, redirect
 import pickle
 import numpy as np
-from PIL import Image
-from sklearn.ensemble.forest import ForestClassifier, ForestRegressor
+from sklearn.ensemble._forest import ForestClassifier, ForestRegressor
 
 
 app = Flask(__name__)
