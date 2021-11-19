@@ -18,7 +18,6 @@ h5py
 idna
 importlib-metadata
 sklearn
-scikit-learn==0.22
 absl-py
 astor
 cached-property
