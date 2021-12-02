@@ -1,5 +1,5 @@
-https://blog.paperspace.com/gradient-boosting-for-classification/
+https://blog.paperspace.com/gradient-boosting-for-classification/ (Notes to refer side by side)
 
-https://youtu.be/jxuNLH5dXCs
+https://youtu.be/jxuNLH5dXCs (Watch this first)
 
-https://youtu.be/StWY5QWMXCw
+https://youtu.be/StWY5QWMXCw (Then this)
